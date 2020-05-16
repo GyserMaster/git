@@ -20,12 +20,12 @@ COMANDOS BASICOS
 *  git config -- global user.email "email" Para configurar email del usuario
 *  git config -- global user.name "nombre" Para configurar nombre del usuario
 
-Git checkout –b nombre de la rama: nos permite crear una nueva rama y cambiar de rama  a la misma vez con un solo comando
-Git branch –m nombreActualDeLaRama NombreNuevaDeLaRama: para cambiar el nombre de la rama
-Git branch –d NombreDeLaRamaQueQuieroEliminar: eliminar rama
-Git checkout –b nombre de la rama: nos permite crear una nueva rama y cambiar de rama  a la misma vez con un solo comando
-Git branch –m nombreActualDeLaRama NombreNuevaDeLaRama: para cambiar el nombre de la rama
-Git branch –d NombreDeLaRamaQueQuieroEliminar: eliminar rama
+* Git checkout –b nombre de la rama: nos permite crear una nueva rama y cambiar de rama  a la misma vez con un solo comando
+* Git branch –m nombreActualDeLaRama NombreNuevaDeLaRama: para cambiar el nombre de la rama
+* Git branch –d NombreDeLaRamaQueQuieroEliminar: eliminar rama
+* Git checkout –b nombre de la rama: nos permite crear una nueva rama y cambiar de rama  a la misma vez con un solo comando
+* Git branch –m nombreActualDeLaRama NombreNuevaDeLaRama: para cambiar el nombre de la rama
+* Git branch –d NombreDeLaRamaQueQuieroEliminar: eliminar rama
 
 .gitignore Es un archivo reservado de git que tenemos que crear si queremos decirle a git los archivos que no vamos a utilizar y así decida ignorarlos.
 Escribe dentro de el archivo .gitignore los nombres de los archivos que desees ignorar.
