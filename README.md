@@ -1,5 +1,6 @@
 # git
 Practicas con git
+![Image of Yaktocat](https://github.com/GyserMaster/images/blob/master/arquitectura%20git.png)
 
 COMANDOS BASICOS 
 * git init Oye Git, voy a usar estos documentos contigo ¿vale?
